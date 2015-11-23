@@ -123,5 +123,5 @@ write.csv(submit, "./submit.csv", row.names=F)
 
 # CV = 2425.38
 # Public LB = 2428.51
-# Private LB = 
+# Private LB = 2434.13
 
